@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/anson/adminserver/controllers/migrations'
+let g:netrw_dirhist_2='/home/anson/adminserver/protocol/templates'
+let g:netrw_dirhist_3='/home/anson/PocServer/adminserver/protocol/models'
+let g:netrw_dirhist_4='/home/anson/PocServer/adminserver/controllers/migrations'
+let g:netrw_dirhist_5='/home/anson/PocServer/characterserver/manager'
+let g:netrw_dirhist_6='/home/anson/PocServer/adminserver/controllers/migrations'
